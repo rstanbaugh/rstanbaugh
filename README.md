@@ -14,9 +14,6 @@
 
 > Building, imagining and training lobsters to flip switches
 
-## Dream Project
-- 🪿 AI goose detection and green laser targeting turret (only to scare them out of my yard)
-
 ## Current Projects
 
 - 🏠 **[crestron-cli](https://github.com/rstanbaugh/crestron-cli)** - CLI for Crestron Home control: lights, scenes, and audio with cache-backed targeting and AI/agent-friendly YAML output
@@ -24,6 +21,14 @@
 - 📱 **[twilio-bridge](https://github.com/rstanbaugh/twilio-bridge)** - Thin Flask bridge that routes inbound Twilio SMS webhooks to a local OpenClaw AI gateway via Cloudflare Tunnel
 - 🎵 **[autonomic](https://github.com/rstanbaugh/autonomic)** - CLI for controlling Autonomic Mirage Media Servers: playback, favorites, and zone control
 - 🌐 **[team505-site](https://github.com/rstanbaugh/team505-site)** - Minimal static site for [team505.ai](https://team505.ai), deployed automatically via Cloudflare Pages
+
+## Dream Project
+
+<p align="center">
+  <img src="./assets/goose-targeting-system.png" width="25%" />
+  <br/>
+  <em>🪿 AI goose detection and green laser targeting turret (humane goose chasing)</em>
+</p>
 
 ## GitHub Activity
 
