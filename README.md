@@ -30,10 +30,6 @@
   <em>🪿 AI goose detection and green laser targeting turret (humane goose chasing)</em>
 </p>
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/rstanbaugh)
-
 ## What I'm Doing
 
 - **Building AI-native tooling** - Creating CLIs designed for agent integration
