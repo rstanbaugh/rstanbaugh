@@ -11,6 +11,10 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![YAML](https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/-Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white)
+![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![xAI/Grok](https://img.shields.io/badge/-xAI%2FGrok-000000?style=flat-square&logo=xai&logoColor=white)
 
 > Building, imagining and training lobsters to flip switches
 
@@ -21,6 +25,7 @@
 - 📱 **[twilio-bridge](https://github.com/rstanbaugh/twilio-bridge)** - Thin Flask bridge that routes inbound Twilio SMS webhooks to a local OpenClaw AI gateway via Cloudflare Tunnel
 - 🎵 **[autonomic](https://github.com/rstanbaugh/autonomic)** - CLI for controlling Autonomic Mirage Media Servers: playback, favorites, and zone control
 - 🌐 **[team505-site](https://github.com/rstanbaugh/team505-site)** - Minimal static site for [team505.ai](https://team505.ai), deployed automatically via Cloudflare Pages
+- 📞 **rich-voice-agent** (private) - Realtime phone voice assistant bridging Twilio Media Streams to xAI realtime voice on a Cloudflare Worker
 
 ## Dream Project
 
