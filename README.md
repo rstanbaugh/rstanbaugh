@@ -25,7 +25,7 @@
 - 📱 **[twilio-bridge](https://github.com/rstanbaugh/twilio-bridge)** - Thin Flask bridge that routes inbound Twilio SMS webhooks to a local OpenClaw AI gateway via Cloudflare Tunnel
 - 🎵 **[autonomic](https://github.com/rstanbaugh/autonomic)** - CLI for controlling Autonomic Mirage Media Servers: playback, favorites, and zone control
 - 🌐 **[team505-site](https://github.com/rstanbaugh/team505-site)** - Minimal static site for [team505.ai](https://team505.ai), deployed automatically via Cloudflare Pages
-- 📞 **rich-voice-agent** (private) - Realtime phone voice assistant bridging Twilio Media Streams to xAI realtime voice on a Cloudflare Worker
+- 📞 **natasha-voice-agent** (private) - Realtime phone voice assistant bridging Twilio Media Streams to xAI realtime voice on a Cloudflare Worker
 
 ## Dream Project
 
